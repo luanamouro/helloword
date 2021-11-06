@@ -1,0 +1,14 @@
+C:\imersao_logica\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.exe
+C:\imersao_logica\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.deps.json
+C:\imersao_logica\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.runtimeconfig.json
+C:\imersao_logica\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.runtimeconfig.dev.json
+C:\imersao_logica\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.dll
+C:\imersao_logica\helloword\helloword\bin\Debug\netcoreapp3.1\helloword.pdb
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.csproj.AssemblyReference.cache
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.AssemblyInfoInputs.cache
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.AssemblyInfo.cs
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.csproj.CoreCompileInputs.cache
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.dll
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.pdb
+C:\imersao_logica\helloword\helloword\obj\Debug\netcoreapp3.1\helloword.genruntimeconfig.cache
